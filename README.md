@@ -3,18 +3,15 @@
 ### About me:
 - BS in Computer Science, Georgia Institute of Technology (2020-23)
 - Specialize in programming robots and building interactive apps and websites
-- Looking for Software and Product roles for Fall 2022
+- Looking for Software and Product roles for Summer 2023
 
-### I am currently working on:
-- SurvivorsGM: A Discord bot to host a survival game requiring both skill and luck
-- PowerUP: A strategy-based tower defense game developed in JavaFX
-
-### I am curently learning:
-- Convolutional Neural Networks in ROS 2
-- Monte Carlo tree-search
+### I am currently:
+- Working on SurvivorsGM, a Discord bot that hosts a variety of party games
+- Solving the Ultimate Tic-Tac-Toe using Monte Carlo tree-search
+- Learning Convolutional Neural Networks in ROS 2
 
 ### Contact me:
-- [Website](https://prakharmittal.tech)
+- [Website](https://prakharmittal.com)
 - [LinkedIn](https://linkedin.com/in/mittalprakhar)
 - [Email](mailto:prakhar@gatech.edu)
 - [Calendly](https://calendly.com/prakharmittal)
