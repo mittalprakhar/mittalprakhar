@@ -6,7 +6,7 @@
 - Looking for Software and Product roles for Summer 2023
 
 ### I am currently:
-- Working on SurvivorsGM, a Discord bot that hosts a variety of party games
+- Developing a Discord bot that can host a variety of party games
 - Solving the Ultimate Tic-Tac-Toe using Monte Carlo tree-search
 - Learning Convolutional Neural Networks in ROS 2
 
