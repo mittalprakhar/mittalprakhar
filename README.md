@@ -3,7 +3,7 @@
 ### About me:
 - BS in Computer Science, Georgia Institute of Technology (2020-23)
 - Specialize in programming robots and building interactive apps and websites
-- Looking for Software and Product roles for Summer 2023
+- Looking for Software and Product roles for Fall 2023
 
 ### I am currently:
 - Developing a Discord bot that can host a variety of party games
