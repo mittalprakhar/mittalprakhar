@@ -3,12 +3,12 @@
 ### About me:
 - BS in Computer Science, Georgia Institute of Technology (2020-23)
 - Specialize in programming robots and building interactive apps and websites
-- Looking for Software and Product roles for Fall 2023
+- Looking for Software and Robotics roles for Fall 2023
 
 ### I am currently:
-- Developing a Discord bot that can host a variety of party games
-- Solving the Ultimate Tic-Tac-Toe using Monte Carlo tree-search
-- Learning Convolutional Neural Networks in ROS 2
+- Leveraging Neural Descriptor Fields for obtaining SE(3)-equivariant representations of robot trajectories
+- Working on inverse kinematics and trajectory optimization for the limbs of Agility Robotics' Digit humanoid
+- Developing a Chromium extension for curating, sharing, and rating reading lists by topic
 
 ### Contact me:
 - [Website](https://prakharmittal.com)
