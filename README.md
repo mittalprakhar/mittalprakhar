@@ -1,9 +1,9 @@
 ## Hey, I'm Prakhar!👋
 
 ### About me:
-- BS in Computer Science, Georgia Institute of Technology (2020-23)
+- BS in Computer Science, Georgia Institute of Technology (2020-24)
 - Specialize in programming robots and building interactive apps and websites
-- Looking for Software and Robotics roles for Fall 2023
+- Looking for Software and Robotics roles for Spring 2024
 
 ### I am currently:
 - Leveraging Neural Descriptor Fields for obtaining SE(3)-equivariant representations of robot trajectories
