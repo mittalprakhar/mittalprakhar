@@ -3,12 +3,7 @@
 ### About me:
 - BS in Computer Science, Georgia Institute of Technology (2020-24)
 - Specialize in programming robots and building interactive apps and websites
-- Looking for Software and Robotics roles for Spring 2024
-
-### I am currently:
-- Leveraging Neural Descriptor Fields for obtaining SE(3)-equivariant representations of robot trajectories
-- Working on inverse kinematics and trajectory optimization for the limbs of Agility Robotics' Digit humanoid
-- Developing a Chromium extension for curating, sharing, and rating reading lists by topic
+- Currently working as a Software Engineer at Google and building [https://palette.build](Palette) in my free time
 
 ### Contact me:
 - [Website](https://prakharmittal.com)
