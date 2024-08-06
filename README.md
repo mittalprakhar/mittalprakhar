@@ -3,7 +3,7 @@
 ### About me:
 - BS in Computer Science, Georgia Institute of Technology (2020-24)
 - Specialize in programming robots and building interactive apps and websites
-- Currently working as a Software Engineer at Google and building [Palette](https://palette.build) in my free time
+- Currently working as a Software Engineer at Google
 
 ### Contact me:
 - [Website](https://prakharmittal.com)
