@@ -3,7 +3,8 @@
 ### About me:
 - BS in Computer Science, Georgia Institute of Technology (2020-24)
 - Specialize in programming robots and building interactive apps and websites
-- Currently working as a Software Engineer at Google
+- Currently working as a Software Engineer at [Zip](https://ziphq.com)
+- Previously built private advertising and AR products at [Google](https://about.google)
 
 ### Contact me:
 - [Website](https://prakharmittal.com)
