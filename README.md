@@ -9,7 +9,6 @@
 ### Contact me:
 - [Website](https://prakharmittal.com)
 - [LinkedIn](https://linkedin.com/in/mittalprakhar)
-- [Email](mailto:prakhar@gatech.edu)
 - [Calendly](https://calendly.com/prakharmittal)
 
 ### Stats:
